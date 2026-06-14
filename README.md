@@ -1,0 +1,2 @@
+# Throttle-By-Wire-Automotive-Electronic-Throttle-Control-System
+An ESP32-based Throttle-by-Wire (TBW) system designed to replace conventional mechanical linkages with precise electronic throttle management. Utilizing a closed-loop control strategy, the system captures accelerator pedal inputs via sensor telemetry and regulates motor displacement with fast response times. It serves as a scalable, cos
